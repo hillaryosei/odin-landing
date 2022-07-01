@@ -34,7 +34,7 @@ a {
     max-height: 450px;
     margin-left: 480px;
     justify-content: space-evenly;
-    gap: 250px;
+    gap: 1px;
     flex: 1;
 }
 
