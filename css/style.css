@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,300&display=swap');
 
+
+/*note: 7/1/22 - trying to make background color in hero extend to edge of page   */
+/*never mind, when you do full screen it's fine, but not on mobilee */
+/* goal:make this website is awesome text have no wrap*/
+
 * {
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
@@ -7,9 +12,12 @@
     padding: 0;
 }
 
+
+
 .hero {
     background-color: #1F2937;
     max-height: 600px;
+    max-width: 100%
 }
 
 .links {
@@ -23,9 +31,11 @@ a {
 .content {
     display: flex;
     max-width: 350px;
+    max-height: 450px;
     margin-left: 480px;
     justify-content: space-evenly;
     gap: 250px;
+    flex: 1;
 }
 
 .hero-text {
@@ -33,9 +43,11 @@ a {
     color: #F9FAF8;
     font-weight: 900;
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    flex-direction: column;
     margin-left: 100px;
+    min-width: 400px;
+    justify-content: center;
+    margin-top: 55px;
 }
 
 .secondary-text, a {
