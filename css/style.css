@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,300&display=swap');
 
-/*note to self: fix button in hero section to align with text */
 
 * {
     box-sizing: border-box;
@@ -99,7 +98,7 @@ a {
 }
 
 .button-container {
-    margin-left: 16px;
+    margin: 0px;
 }
 
 button {
