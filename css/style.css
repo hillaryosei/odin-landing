@@ -82,7 +82,7 @@ a {
     border: grey 1px solid;
     height: 300px;
     width: 550px;
-    background-color:rgb(166, 165, 165);
+    background-color: rgb(166, 165, 165);
     display: flex;
     justify-content: center;
     flex-grow: 0;
@@ -155,12 +155,14 @@ section {
 
 .quote-section {
     background-color: #E5E7EB;
-    max-height: 500px;
+    min-height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-width: 75%;
+    margin-top: 150px;
+    margin-bottom: 155px;
 }
 
 .quote {
