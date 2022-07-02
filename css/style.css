@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,300&display=swap');
 
-
-/*note: 7/1/22 - trying to make background color in hero extend to edge of page   */
-/*never mind, when you do full screen it's fine, but not on mobilee */
-/* goal:make this website is awesome text have no wrap*/
+/*note to self: fix button in hero section to align with text */
 
 * {
     box-sizing: border-box;
@@ -126,9 +123,31 @@ section {
     display: flex;
     justify-content: center;
     justify-content: center;
-    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 45px;
 }
 
-.info {
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 130px;
+}
+
+
+.boxes {
     border: 3px solid #3882F6;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.section-text {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 50%;
+    justify-content: center;
+    text-align: center;
+    margin-left: 15px;
 }
