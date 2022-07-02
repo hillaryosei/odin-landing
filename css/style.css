@@ -132,6 +132,7 @@ section {
     justify-content: center;
     align-items: center;
     padding-left: 130px;
+    margin-bottom: 150px;
 }
 
 
@@ -150,4 +151,32 @@ section {
     justify-content: center;
     text-align: center;
     margin-left: 15px;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    max-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 75%;
+}
+
+.quote {
+    font-size: 35px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    margin-left: 200px;
+    margin-right: 200px;
+    flex-wrap: wrap;
+    margin-top: 65px;
+    max-width: 55%;
+}
+
+.quotee {
+    display: flex;
+    justify-content: center;
+    margin-left: 245px;
 }
