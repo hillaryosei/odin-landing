@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,300&display=swap');
 
-
+/*not to self: was working on fixing call to action alignment, background color*/
 * {
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
@@ -24,14 +24,14 @@ a {
     text-decoration: none;
 }
 
-.content {
+.hero-content {
     display: flex;
     max-width: 350px;
     max-height: 450px;
-    margin-left: 480px;
+    margin-left: 500px;
+    margin-right: 100px;
     justify-content: space-evenly;
     gap: 1px;
-    flex: 1;
 }
 
 .hero-text {
@@ -101,7 +101,7 @@ a {
     margin: 0px;
 }
 
-button {
+.hero-btn {
     background-color: #3882F6;
     color: #F9FAF8;
     border: 1px solid #3882F6;
@@ -126,7 +126,7 @@ button {
     margin-bottom: 45px;
 }
 
-.container {
+.random-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -181,21 +181,43 @@ button {
     font-weight: bold;
 }
 
-.action-section {
-    background-color: #E5E7EB;
-    min-height: 500px;
-    display: flex;
-    height: 300px;
-    width: 650px;
-    margin-left: 450px;
+.call-action-section {
+    width: 200px;
+    min-height: 300px;
+    margin-left: 150px;
+    margin-bottom: 00px;
 }
 
-.act-content {
+.call-action-container {
     background-color: #3882F6;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    width: 750px;
+    height: 150px;
+    margin: 75px 150px;
+    border-radius: 5px;
 }
 
-.act-heading, .act-text {
-    color: #E5E7EB;
+.call-action-text {
+    color: #F9FAF8;
+    margin-left: 50px;
+    padding-top: 20px;
+    text-align: left;
 }
+
+.action-btn-container {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.action-btn {
+    border: 3px solid #F9FAF8;
+    border-radius: 10px;
+    background-color: #3882F6;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    flex: 1;
+}
+
