@@ -1,6 +1,6 @@
 # Odin Landing Page Project
 
-⚠️ OPTIMIZED FOR DESKTOP SCREENS (for now) ⚠️
+⚠️ Currently optimized for desktop screens! ⚠️
 
 ## Table of contents
 
@@ -11,16 +11,12 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### The challenge
 
-For this project, create an entire web page from a design provided for you.
+The Odin Project provided a design and a style guide containing colors and font sizes for a webpage that I needed to clone. The objective was to create a webpage from scratch and get the various elements in more or less the right position relative to the rest.
 
 ### Screenshot
 
@@ -34,28 +30,15 @@ For this project, create an entire web page from a design provided for you.
 
 ### Built with
 
-- HTML5 markup
+- HTML5
 - CSS3
-- Flexbox
 
 ### What I learned
 
-- How to amend git commit messages
-- How to use Chrome Inspector Tool to debug and try out different codes before officially adding it on my stylesheet
-- How to use flexbox
+- Being comfortable using Flexbox, especially with justify-content and align-items.
+- Using Chrome Inspector Tool to debug and try out different codes before officially adding it on my stylesheet.
+- Using Git to add, push, pull, and amend files and commit messages.
+- Working on a project starting from top to bottom.
 
-
-### Continued development
-
-Throughout the project, I encountered major difficulties with how to appropriately use flexbox. I found myself throwing different alignment properties and values, hoping that something would stick eventually. As I learn more advanced HTML and CSS, I will return to this landing page to update the code and make it cleaner.
-
-### Useful resources
-
-- [CSS Tricks](https://www.example.com) - This is an amazing article which helped me get some understanding of flexbox. I'd recommend it to anyone who is learning this concept.
-
-
-## Author
-
-- LinkedIn - [Hillary Osei](https://www.linkedin.com/in/hillary-osei)
 
 
