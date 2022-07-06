@@ -28,7 +28,7 @@ For this project, create an entire web page from a design provided for you.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://hillaryosei.github.io/odin-landing/)
+- Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/)
 
 ## My process
 
