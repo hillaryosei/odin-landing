@@ -1,11 +1,5 @@
 # Odin Landing Page Project
 
-⚠️ Currently optimized for desktop screens! ⚠️
-
-## Overview
-
-### The challenge
-
 The Odin Project provided a design and a style guide containing colors and font sizes for a webpage that I needed to clone. The objective was to create a webpage from scratch and get the various elements in more or less the right position relative to the rest.
 
 ## My process
@@ -22,7 +16,8 @@ The Odin Project provided a design and a style guide containing colors and font 
 - Using Git to add, push, pull, and amend files and commit messages.
 - Working on a project starting from top to bottom.
 
-### Links
+## Links
 
-- Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/)
+Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/) </br>
+**Note: Optimized for desktop screens only**
 
