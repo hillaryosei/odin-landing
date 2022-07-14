@@ -86,37 +86,33 @@ header, .hero-section, footer {
     opacity: 0.7;
 }
 
-.hero-secondary-text {
-    font-size: 18px;
-    color: #E5E7EB;
-}
-
-.hero-btn, .signup-btn /* both signup buttons */ {
-    max-width: 80px;
-    background-color: #3882F6;
-    padding: 8px 8px;
-    border: 0px solid #3882F6;
-    border-radius: 10px;
-}
-
-.placeholder {
-    height: 200px;
-    max-width: 400px;
-    background-color: #536374;
-    border: #536374 1px solid;
+.hero-img {
+    width: 500px;
+    height: 320px;
     display: flex;
-    align-items: center;
     justify-content: center;
-    margin-bottom: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
+    align-items: center;
 }
 
+.hero-left {
+    padding-left: 50px;
+    padding-right: 30px;
+    max-width: 375px;
+    text-align: left;
+}
 
-.placeholder-text {
-    font-size: 16px;
-    color:#F9FAF8;
-    text-align: center;
+.hero-right {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: right;
+}
+
+.hero-btn {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    padding: 8px 16px;
+    border: 1px solid #3882F6;
 }
 
 /* main section */
