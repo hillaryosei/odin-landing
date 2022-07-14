@@ -174,9 +174,14 @@ header, .hero-section, footer {
 }
 
 .quotee {
-    font-weight: 700;
+    font-weight: bolder;
     color: #1F2937;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 30px;
+    padding-right: 10px;
 }
+
 
 /* signup section */
 
