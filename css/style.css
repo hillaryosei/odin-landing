@@ -215,6 +215,17 @@ header, .hero-section, footer {
     opacity: 0.8;
 }
 
+.signup-btn {
+    border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    padding: 8px 24px;
+    color: #F9FAF8;
+    border-radius: 5px;
+}
+
+
+/* FOOTER */
+
 footer {
     background-color: #1F2937;
     color: #F9FAF8;
