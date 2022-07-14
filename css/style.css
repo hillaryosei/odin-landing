@@ -199,13 +199,15 @@ header, .hero-section, footer {
     flex-wrap: wrap;
 }
 
-.signup-container>.left {
-    display: flex;
-    flex-direction: column;
+.signup-left {
+    color: #F9FAF8;
 }
 
-.signup-title, .signup-subtext {
-    color: #F9FAF8;
+.signup-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
 }
 
 
