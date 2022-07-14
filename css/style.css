@@ -12,18 +12,6 @@ html, body {
     flex-direction: column;
 }
 
-.left {
-    display: flex;
-    justify-content: flex-start;
-    margin-left: 150px;
-}
-
-.right {
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 150px;
-}
-
 /* HEADER SECTION */
 header {
     margin: 0;
@@ -74,6 +62,7 @@ header, .hero-section, footer {
     padding-left: 12px;
 }
 
+
 .hero-title {
     font-size: 48px;
     font-weight: 900;
@@ -121,7 +110,6 @@ header, .hero-section, footer {
     padding-bottom: 50px;
 }
 
-
 .info-title {
     font-size: 36px;
     font-weight: 900;
@@ -132,7 +120,7 @@ header, .hero-section, footer {
 
 .info-container {
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
     text-align: center;
     flex-wrap: wrap;
 }
@@ -146,7 +134,6 @@ header, .hero-section, footer {
     margin: 5px 20px 0px 20px;
 }
 
-
 .info-subtxt {
     width: 12em;
     opacity: 0.7;
@@ -158,19 +145,18 @@ header, .hero-section, footer {
     text-align: center;
 }
 
-.quote-container {
-    padding-top: 30px;
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
-
 .quote {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
     flex-wrap: wrap;
+}
+
+.quote-container {
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .quotee {
@@ -182,8 +168,7 @@ header, .hero-section, footer {
     padding-right: 10px;
 }
 
-
-/* signup section */
+/* SIGN UP SECTION */
 
 .signup-section {
     padding: 100px;
@@ -210,7 +195,6 @@ header, .hero-section, footer {
     flex: 1;
 }
 
-
 .signup-subtxt {
     opacity: 0.8;
 }
@@ -222,7 +206,6 @@ header, .hero-section, footer {
     color: #F9FAF8;
     border-radius: 5px;
 }
-
 
 /* FOOTER */
 
