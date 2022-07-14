@@ -16,49 +16,42 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
-    <div class="container">
-        <header>
-            <!--navigation bar-->
-            <nav>
-                <!--header logo-->
-                <div class="left">
-                    <p class="logo">Header Logo</p>
+<div class="container">
+    <!--header-->
+    <header>
+        <div class="hero-left">
+            <h1 class="logo">Header Logo</h1>
+        </div>
+        <!--navigation menu-->
+        <nav class="nav-bar">
+            <ul>
+                <li>header link one</li>
+                <li>header link two</li>
+                <li>header link three</li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <body>
+
+        <!--hero section-->
+        <div class="hero">
+            <div class="left">
+                <div class="hero-text-container">
+                    <h2 class="hero-main-text">This website is awesome</h2>
+                    <p class="hero-secondary-text">This website has some subtext that goes here under the
+                        main title. It's a small font and the color is lower contrast.
+                    </p>
+                    <button class="hero-btn"><a href="#">Sign up</a></button>
                 </div>
-                <!--navigation links-->
                 <div class="right">
-                    <div class="nav-links">
-                        <ul>
-                            <li><a href="#">header link one</a></li>
-                        </ul>
-                        <ul>
-                            <li><a href="#">header link two</a></li>
-                        </ul>
-                        <ul>
-                            <li><a href="#">header link three</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-
-
-            <!--hero section-->
-            <div class="hero">
-                <div class="left">
-                    <div class="hero-text-container">
-                        <h2 class="hero-main-text">This website is awesome</h2>
-                        <p class="hero-secondary-text">This website has some subtext that goes here under the
-                            main title. It's a small font and the color is lower contrast.
-                        </p>
-                        <button class="hero-btn"><a href="#">Sign up</a></button>
-                    </div>
-                    <div class="right">
-                        <div class="placeholder">
-                            <p class="placeholder-text">this is a placeholder for an image</p>
-                        </div>
+                    <div class="placeholder">
+                        <p class="placeholder-text">this is a placeholder for an image</p>
                     </div>
                 </div>
             </div>
+        </div>
         </header>
 
         <!--section #2-->
@@ -112,7 +105,7 @@
                 </div>
             </div>
         </div>
-    </div>
+</div>
 </body>
 
 <footer>Copyright &copy; The Odin Project 2022</footer>
