@@ -164,11 +164,13 @@ header, .hero-section, footer {
     padding-right: 100px;
 }
 
+
 .quote {
     font-size: 36px;
-    color: #1F2937;
-    font-style: italic;
     font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    flex-wrap: wrap;
 }
 
 .quotee {
