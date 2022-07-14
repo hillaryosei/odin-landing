@@ -138,10 +138,14 @@ header, .hero-section, footer {
 }
 
 
-.info {
-    max-width: 150px;
-    text-align: center;
+.info-container img {
+    width: 115px;
+    height: 115px;
+    border: 3px solid none;
+    border-radius: 15px;
+    margin: 5px 20px 0px 20px;
 }
+
 
 .box {
     width: 150px;
