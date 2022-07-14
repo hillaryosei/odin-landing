@@ -211,8 +211,8 @@ header, .hero-section, footer {
 }
 
 
-.signup-btn {
-    border: 2px solid #F9FAF8;
+.signup-subtxt {
+    opacity: 0.8;
 }
 
 footer {
