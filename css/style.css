@@ -115,7 +115,12 @@ header, .hero-section, footer {
     border: 1px solid #3882F6;
 }
 
-/* main section */
+/* IMAGE INFO SECTION */
+
+.info-section {
+    padding-bottom: 50px;
+}
+
 
 .main-title {
     font-weight: 900;
