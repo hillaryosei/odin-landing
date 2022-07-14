@@ -130,13 +130,11 @@ header, .hero-section, footer {
     padding-bottom: 15px;
 }
 
-.main-container {
-    max-height: 400px;
+.info-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 100px;
-    gap: 50px;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
 }
 
 
@@ -205,8 +203,8 @@ header, .hero-section, footer {
     border-radius: 8px;
 }
 
-.signup-container > .left {
-    display:flex;
+.signup-container>.left {
+    display: flex;
     flex-direction: column;
 }
 
