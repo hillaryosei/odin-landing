@@ -18,6 +18,6 @@ The Odin Project provided a design and a style guide containing colors and font 
 
 ## Links
 
-Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/) </br>
-**Note: Optimized for desktop screens only**
+Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/)
+Now optimized for desktop and mobile devices
 
