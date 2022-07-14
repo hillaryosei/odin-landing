@@ -159,13 +159,9 @@ header, .hero-section, footer {
 }
 
 .quote-container {
-    max-width: 100%;
-    display: flex;
-    justify-content: flex-end;
-    padding: 100px;
-    flex-wrap: wrap;
-    margin-left: 150px;
-    margin-right: 150px;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .quote {
