@@ -24,43 +24,43 @@ html, body {
     margin-right: 150px;
 }
 
-/* header section */
+/* HEADER SECTION */
 header {
-    background-color: #1F2937;
-    max-height: 600px;
-    padding-top: 15px;
-}
-
-/* navigation bar */
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 55px;
-}
-
-ul {
-     list-style: none;
-     margin: 0;
-     padding: 0;
-}
-
-.nav-links {
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: space-around;
-    gap: 12px;
-    font-size: 18px;
-}
-
-a {
-    text-decoration: none;
-    color: #E5E7EB;
 }
 
 .logo {
     font-size: 24px;
     color: #F9FAF8;
-    font-weight: 900;
+}
+
+ul {
+    display: flex;
+    gap: 12px;
+    font-size: 18px;
+    color: #E5E7EB;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+header, .hero-section, footer {
+    background-color: #1F2937;
+}
+
+.nav-bar {
+    gap: 12px;
 }
 
 /* hero section */
