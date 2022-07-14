@@ -186,12 +186,7 @@ header, .hero-section, footer {
 /* signup section */
 
 .signup-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 25px;
-    padding: 30px 300px;
-    margin-bottom: 25px;
+    padding: 100px;
 }
 
 .signup-container {
