@@ -147,16 +147,9 @@ header, .hero-section, footer {
 }
 
 
-.box {
-    width: 150px;
-    height: 200px;
-    border: 2px solid #3882F6;
-    border-radius: 20px;
-    margin-bottom: 10px;
-}
-
-.main-text {
-    color: #E5E7EB;
+.info-subtxt {
+    width: 12em;
+    opacity: 0.7;
 }
 
 /* quote section */
