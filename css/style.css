@@ -91,7 +91,7 @@ header, .hero-section, footer {
 }
 
 .hero-right {
-    padding-left: 30px;
+    padding-left: 0px;
     padding-right: 30px;
     text-align: right;
 }
