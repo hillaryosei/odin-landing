@@ -152,9 +152,10 @@ header, .hero-section, footer {
     opacity: 0.7;
 }
 
-/* quote section */
+/* QUOTE SECTION */
 .quote-section {
     background-color: #E5E7EB;
+    text-align: center;
 }
 
 .quote-container {
