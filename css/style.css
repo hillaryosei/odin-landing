@@ -77,7 +77,7 @@ header, .hero-section, footer {
 }
 
 .hero-img {
-    width: 470px;
+    width: 400px;
     height: 300px;
     display: flex;
     justify-content: center;
