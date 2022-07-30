@@ -59,7 +59,8 @@ header, .hero-section, footer {
     align-items: center;
     padding-bottom: 50px;
     flex-wrap: wrap;
-    padding-left: 50px;
+    padding-left: 125px;
+    padding-right: 125px;
 }
 
 
