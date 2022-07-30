@@ -55,12 +55,12 @@ header, .hero-section, footer {
 
 .hero-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding-bottom: 50px;
     flex-wrap: wrap;
-    padding-left: 125px;
-    padding-right: 125px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 
