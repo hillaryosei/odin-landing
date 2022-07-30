@@ -12,7 +12,7 @@ The Odin Project provided a design and a style guide containing colors and font 
 ### What I learned
 
 - Being comfortable using Flexbox, especially with justify-content and align-items.
-- Using Chrome Inspector Tool to debug and try out different codes before officially adding it on my stylesheet.
+- Using Chrome Inspector Tool to test various CSS styles before officially adding it to my stylesheet.
 - Using Git to add, push, pull, and amend files and commit messages.
 - Working on a project starting from top to bottom.
 
