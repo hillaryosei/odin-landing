@@ -19,5 +19,5 @@ The Odin Project provided a design and a style guide containing colors and font 
 ## Links
 
 Live Site URL: [https://hillaryosei.github.io/odin-landing/](https://hillaryosei.github.io/odin-landing/)
-Now optimized for desktop and mobile devices
+<br> Go to blog [here](https://hillaryosei.hashnode.dev/odin-landing-page) to read my full thoughts on the project!
 
